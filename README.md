@@ -9,10 +9,8 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 ## Developer Tools
 VS Code, HTML5, CSS, Javascript, NodeJS, Express backened up with NoSQL (Mongo Db). Intended to be deployed on Heroku.
 
-## Style 
-![Screen Shot 2020-05-11 at 1 14 27 PM](https://user-images.githubusercontent.com/55516592/81604813-b84dce00-938d-11ea-81d9-76f8c789ce1a.png)
+## Layout
 
-
-## Issues 
-Issues connecting with the database
-
+![1](https://user-images.githubusercontent.com/55516592/81997725-de81a100-960d-11ea-8855-c09f20d5467e.png)
+![2](https://user-images.githubusercontent.com/55516592/81997727-df1a3780-960d-11ea-800f-a0bbbd2a60b6.png)
+![3](https://user-images.githubusercontent.com/55516592/81997730-dfb2ce00-960d-11ea-853e-e3e7a1030fbf.png)
